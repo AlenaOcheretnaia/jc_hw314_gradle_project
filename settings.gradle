@@ -1,0 +1,4 @@
+rootProject.name = 'aloch_gradle_project'
+include 'db'
+include 'api'
+include 'service'
